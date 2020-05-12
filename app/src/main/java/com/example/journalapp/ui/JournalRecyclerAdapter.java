@@ -1,4 +1,3 @@
-package com.example.journalapp.ui;
 
 import android.content.Context;
 import android.text.format.DateUtils;
