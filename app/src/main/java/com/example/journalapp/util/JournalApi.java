@@ -1,4 +1,3 @@
-package com.example.journalapp.util;
 
 import android.app.Application;
 
